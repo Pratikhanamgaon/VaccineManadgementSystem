@@ -1,1 +1,1 @@
-# VaccineManadgementSystem
+# VaccineManagementSystem
